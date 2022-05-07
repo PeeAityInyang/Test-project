@@ -1,0 +1,68 @@
+body {
+    background-image: url("earth.jpg");
+    background-size: cover;
+    margin : 0;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+h1 {
+    font-size: 48px;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+h3 {
+
+    font-size: 16px;
+}
+
+h4 {
+
+    font-size: 16px;
+}
+
+h5 {
+
+    font-size: 16px;
+}
+
+header {
+
+background-color: aqua;
+color: black;
+text-align: center;
+padding: 25px 0;
+margin: 25px
+
+}
+
+
+.intro  {
+
+    width: 500px;
+    margin: 100px auto;
+    text-align: center;
+}
+
+.myskill {
+
+    background-color: #1D3C41;
+    color: aliceblue;
+    padding: 75px 0;
+    text-align: center;
+}
+
+.columns {
+
+    display: flex;
+
+}
+
+.column {
+    margin: 0 15px;
+}
